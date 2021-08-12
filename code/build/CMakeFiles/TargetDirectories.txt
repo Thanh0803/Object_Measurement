@@ -1,0 +1,3 @@
+/home/thanhbear/Desktop/CV_2020/Object_Measurement/code/build/CMakeFiles/rebuild_cache.dir
+/home/thanhbear/Desktop/CV_2020/Object_Measurement/code/build/CMakeFiles/edit_cache.dir
+/home/thanhbear/Desktop/CV_2020/Object_Measurement/code/build/CMakeFiles/main.dir
